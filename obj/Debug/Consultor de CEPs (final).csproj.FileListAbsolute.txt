@@ -1,0 +1,10 @@
+C:\Users\victo\source\repos\Consultor de CEPs (final)\bin\Debug\Consultor de CEPs (final).exe.config
+C:\Users\victo\source\repos\Consultor de CEPs (final)\bin\Debug\Consultor de CEPs (final).exe
+C:\Users\victo\source\repos\Consultor de CEPs (final)\bin\Debug\Consultor de CEPs (final).pdb
+C:\Users\victo\source\repos\Consultor de CEPs (final)\obj\Debug\Consultor de CEPs (final).csprojAssemblyReference.cache
+C:\Users\victo\source\repos\Consultor de CEPs (final)\obj\Debug\Consultor_de_CEPs__final_.Form1.resources
+C:\Users\victo\source\repos\Consultor de CEPs (final)\obj\Debug\Consultor_de_CEPs__final_.Properties.Resources.resources
+C:\Users\victo\source\repos\Consultor de CEPs (final)\obj\Debug\Consultor de CEPs (final).csproj.GenerateResource.cache
+C:\Users\victo\source\repos\Consultor de CEPs (final)\obj\Debug\Consultor de CEPs (final).csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\Consultor de CEPs (final)\obj\Debug\Consultor de CEPs (final).exe
+C:\Users\victo\source\repos\Consultor de CEPs (final)\obj\Debug\Consultor de CEPs (final).pdb
