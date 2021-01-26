@@ -21,9 +21,13 @@ namespace Consultor_de_CEPs__final_
         {
             // pegando os buttons e limpando eles 
             txtBairro.Text = string.Empty;
+
             txtCidade.Text = string.Empty;
+
             txtEstado.Text = string.Empty;
+
             txtRua.Text = string.Empty;
+
             txtConsultarCeps.Text = string.Empty;
 
         }
@@ -58,7 +62,7 @@ namespace Consultor_de_CEPs__final_
             }
             else
             {
-                MessageBox.Show("Informe um CEP válido...", this.Text, MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show("Informe um CEP válido....", this.Text, MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
     }
